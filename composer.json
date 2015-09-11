@@ -1,0 +1,17 @@
+{
+  "name": "opencontent/ocfindandimport",
+  "description": "Opencontent extension",
+  "license": "GPL-2.0",
+  "type": "ezpublish-legacy-extension",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/lolautruche/sqliimport"
+    }
+  ],
+  "require": {
+    "ezsystems/ezpublish-legacy-installer": "*",
+    "lolautruche/sqliimport": "*",
+    "ezsystems/ezfind-ls":"*"
+  }
+}
