@@ -1,6 +1,7 @@
 {
   "name": "opencontent/ocfindandimport",
   "description": "Opencontent extension",
+  "version": "1.0",
   "license": "GPL-2.0",
   "type": "ezpublish-legacy-extension",
   "repositories": [
