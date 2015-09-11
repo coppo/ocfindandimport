@@ -1,0 +1,8 @@
+# Environment ignores
+.lock-wscript
+.idea
+
+# Project-specific ignores
+
+
+
